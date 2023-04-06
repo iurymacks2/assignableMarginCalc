@@ -19,5 +19,5 @@ http://localhost:3000/data
 cpf only numbers
 format of the body
 {
-    "cpf": "96260093063"
+    "cpf": "cpf-here"
 }
